@@ -14,4 +14,4 @@ Entre em contato:
   - <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-da-silva-119646347/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <br>
 
-  [![JoãoVitor Stats](https://github-readme-stats.vercel.app/api?username=JoãoVitordaSilva07)](https://github.com/anuraghazra/github-readme-stats)
+  [![Joaovitor Stats](https://github-readme-stats.vercel.app/api?username=joaovitordasilva07)](https://github.com/anuraghazra/github-readme-stats)
