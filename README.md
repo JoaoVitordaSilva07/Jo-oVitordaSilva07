@@ -11,4 +11,4 @@ Me chamo João Vitor, sou programador Front-End, atualmente estou aprendendo e c
 Entre em contato:
 <br>
 
-  - <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-da-silva-119646347/" target=_blank> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  - <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-da-silva-119646347/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
