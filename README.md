@@ -15,3 +15,5 @@ Entre em contato:
   <br>
 
   [![Joaovitor Stats](https://github-readme-stats.vercel.app/api?username=joaovitordasilva07)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitordasilva07&layout=compact)
